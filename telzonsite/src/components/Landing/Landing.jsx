@@ -117,7 +117,7 @@ const [scroll, setScroll] = useState(0);
       <PageHeading
         // title="About Us"
         // bgSrc="images/about_hero_bg.jpeg"
-        bgSrc="https://www.teahub.io/photos/full/178-1787609_digital-marketing-seo-company.png"
+        bgSrc="https://wallpapercave.com/wp/wp3950068.jpg"
         // pageLinkText="About Us"
       />
 
