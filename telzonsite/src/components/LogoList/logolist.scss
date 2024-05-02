@@ -1,0 +1,28 @@
+.cs-partner_logo_wrap {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -15px;
+  height: 300px;
+}
+.cs-partner_logo {
+  padding: 15px;
+  height: 6rem;
+  img {
+    height: 5rem;
+  }
+}
+@media screen and (max-width: 575px) {
+  .cs-partner_logo_wrap {
+    margin: 0 -10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cs-partner_logo {
+    padding: 15px;
+    height: 4rem;
+    // margin: 0.5rem;
+  }
+  img {
+    height: 4rem;
+  }
+}
